@@ -1,8 +1,0 @@
-[user]
-	name = bikashc8
-	email = bikash.c8@gmail.com
-	signingkey = 09:09:a3:2a:7d:8b:38:61:b6:25:a7:76:61:95:36:47
-[color]
-	ui = true
-[color "diff"]
-	meta = blue black bold
